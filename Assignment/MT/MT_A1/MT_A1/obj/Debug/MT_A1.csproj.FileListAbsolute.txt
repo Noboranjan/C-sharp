@@ -1,0 +1,12 @@
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\bin\Debug\MT_A1.exe.config
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\bin\Debug\MT_A1.exe
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\bin\Debug\MT_A1.pdb
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\obj\Debug\MT_A1.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\obj\Debug\MT_A1.exe
+C:\Users\NILOY\Desktop\VS C#\MT_A1\MT_A1\obj\Debug\MT_A1.pdb
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\bin\Debug\MT_A1.exe.config
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\obj\Debug\MT_A1.exe
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\obj\Debug\MT_A1.pdb
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\bin\Debug\MT_A1.exe
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\bin\Debug\MT_A1.pdb
+C:\Users\NILOY\Desktop\MT\MT_A1\MT_A1\obj\Debug\MT_A1.csprojResolveAssemblyReference.cache
