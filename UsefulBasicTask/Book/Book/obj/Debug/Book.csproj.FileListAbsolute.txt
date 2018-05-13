@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\bin\Debug\Book.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\bin\Debug\Book.exe
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\bin\Debug\Book.pdb
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\obj\Debug\Book.exe
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\obj\Debug\Book.pdb
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache

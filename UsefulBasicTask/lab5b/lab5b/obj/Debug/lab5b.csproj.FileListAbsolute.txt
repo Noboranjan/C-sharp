@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\bin\Debug\lab5b.exe.config
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\obj\Debug\lab5b.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\bin\Debug\lab5b.exe
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\bin\Debug\lab5b.pdb
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\obj\Debug\lab5b.exe
+C:\Users\student\Desktop\lab(2-02-18)\lab5b\lab5b\obj\Debug\lab5b.pdb

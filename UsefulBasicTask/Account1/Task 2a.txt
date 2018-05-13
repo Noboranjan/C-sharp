@@ -1,0 +1,9 @@
+Write a class Account that has the following attributes:
+
+accountID
+accountHolderName
+balance
+
+write one set method and one get method for each of the attributes.
+
+Write a class Program that contains the main method. Inside the main method create one object of student and call the setmethods and get methods for it.

@@ -1,0 +1,14 @@
+Write a class Book that has the following attributes:
+
+bookID
+bookTitle
+authorName
+page
+publicationYear
+balance
+
+write necessary properties to access the attributes.
+
+write one empty constructor and one parameterized constructor for Book.
+
+Write a class Program that contains the main method. Inside the main method create two objects of Book (1 using empty constructor and the other using parameterized constructor) and access its attributes by using the properties.

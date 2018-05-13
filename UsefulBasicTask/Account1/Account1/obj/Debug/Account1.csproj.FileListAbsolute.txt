@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\bin\Debug\Account1.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\bin\Debug\Account1.exe
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\bin\Debug\Account1.pdb
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\obj\Debug\Account1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\obj\Debug\Account1.exe
+C:\Users\student\Documents\Visual Studio 2012\Nioy\Account1\Account1\obj\Debug\Account1.pdb

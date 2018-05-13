@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\bin\Debug\4a.exe.config
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\bin\Debug\4a.exe
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\bin\Debug\4a.pdb
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\obj\Debug\4a.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\obj\Debug\4a.exe
+C:\Users\student\Desktop\tamanna\tama.cs\tama.cs\tamanna\Square .cs\4a\4a\obj\Debug\4a.pdb

@@ -1,0 +1,6 @@
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\bin\Debug\ObjectandClass.exe.config
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\bin\Debug\ObjectandClass.exe
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\bin\Debug\ObjectandClass.pdb
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\obj\Debug\ObjectandClass.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\obj\Debug\ObjectandClass.exe
+C:\Users\NILOY\Desktop\VS C#\ObjectandClass\ObjectandClass\obj\Debug\ObjectandClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\NILOY\Desktop\VS C#\List\List\bin\Debug\List.exe.config
+C:\Users\NILOY\Desktop\VS C#\List\List\bin\Debug\List.exe
+C:\Users\NILOY\Desktop\VS C#\List\List\bin\Debug\List.pdb
+C:\Users\NILOY\Desktop\VS C#\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\List\List\obj\Debug\List.exe
+C:\Users\NILOY\Desktop\VS C#\List\List\obj\Debug\List.pdb

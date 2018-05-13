@@ -1,0 +1,46 @@
+//-------------------------------------------------------------------------
+Write a class Rectangle that has two attributes:
+
+double length
+double width
+
+double Length
+double Width
+
+the class has one empty constructor and one parameterized constructor.
+the class also has method void showArea( ) that displays the area of the Rectangle.
+
+//---------------------------------------------------------------------------
+Write a class Triangle that has two attributes:
+
+double height
+double land
+
+double Height
+double Land
+
+the class has one empty constructor and one parameterized constructor.
+the class also has method void showArea( ) that displays the area of the Triangle.
+
+//-------------------------------------------------------------------------------------
+Write a class Square that has one attribute:
+
+double length
+
+double Length
+
+the class has one empty constructor and one parameterized constructor.
+the class also has method void showArea( ) that displays the area of the Square.
+
+//-----------------------------------------------------------------------------------------
+Write a class Circle that has one attribute:
+
+double radius
+
+double Radius
+
+the class has one empty constructor and one parameterized constructor.
+the class also has method void showArea( ) that displays the area of the Circle.
+
+//------------------------------------------------------------------------------------------
+Write a class Program that contains the main( ) method. Inside the main method create two objects for each of the classes above and illustrate the purpose of all the methods and constructors.

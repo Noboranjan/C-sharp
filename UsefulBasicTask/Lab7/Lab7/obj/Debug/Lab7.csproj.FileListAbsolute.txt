@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\oop2\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\student\Desktop\oop2\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\oop2\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\student\Desktop\oop2\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\student\Desktop\oop2\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\student\Desktop\oop2\Lab7\Lab7\obj\Debug\Lab7.pdb
+G:\C-sharp\Lab Task\Lab7\Lab7\bin\Debug\Lab7.exe.config
+G:\C-sharp\Lab Task\Lab7\Lab7\obj\Debug\Lab7.exe
+G:\C-sharp\Lab Task\Lab7\Lab7\obj\Debug\Lab7.pdb

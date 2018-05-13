@@ -1,0 +1,10 @@
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\bin\Debug\SplashScreen_1.exe.config
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\bin\Debug\SplashScreen_1.exe
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\bin\Debug\SplashScreen_1.pdb
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.Form1.resources
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.Form2.resources
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.Properties.Resources.resources
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.csproj.GenerateResource.Cache
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.exe
+C:\Users\NILOY\Desktop\VS C#\SplashScreen_1\SplashScreen_1\obj\Debug\SplashScreen_1.pdb

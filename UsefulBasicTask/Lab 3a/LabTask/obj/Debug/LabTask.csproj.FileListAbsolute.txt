@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\bin\Debug\LabTask.exe.config
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\bin\Debug\LabTask.exe
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\bin\Debug\LabTask.pdb
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\obj\Debug\LabTask.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\obj\Debug\LabTask.exe
+C:\Users\student\Desktop\task2b\New folder\LabTask\LabTask\obj\Debug\LabTask.pdb

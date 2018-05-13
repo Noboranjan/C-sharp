@@ -1,0 +1,6 @@
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\NILOY\Desktop\VS C#\Bank\Bank\obj\Debug\Bank.pdb

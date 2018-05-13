@@ -1,0 +1,6 @@
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\NILOY\Desktop\VS C#\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

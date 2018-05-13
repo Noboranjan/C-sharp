@@ -1,0 +1,29 @@
+Write a class called Person which has the folloowing attributes-
+
+string name
+int id
+char gender
+string phoneNo
+string address
+
+write necessary properties for the above attributes.
+
+The class has one empty constructor and one parameterized constructor.
+The class also has method void showInfo( ) that displays the information of the person. 
+
+//------------------------------------------------------------------------------------------------------------------------
+
+Write a class called Student that inherits the Person class and has the following attributes-
+
+double cgpa
+string department
+int creditCompleted
+
+write necessary properties for the above attributes.
+
+The class has one empty constructor and one parameterized constructor.
+The class also has method void showInfo( ) that displays all the information of the student. 
+
+//------------------------------------------------------------------------------------------------------------------------
+
+Write a class Program that contains the main( ) method. Inside the main method create two objects of Student and illustrate the purpose of all the methods and constructors.
