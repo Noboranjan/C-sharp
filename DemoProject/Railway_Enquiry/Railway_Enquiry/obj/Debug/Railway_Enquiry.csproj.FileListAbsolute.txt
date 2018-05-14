@@ -1,0 +1,16 @@
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\bin\Debug\Railway_Enquiry.exe.config
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\bin\Debug\Railway_Enquiry.exe
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\bin\Debug\Railway_Enquiry.pdb
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Form1.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Properties.Resources.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.csproj.GenerateResource.Cache
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.exe
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.pdb
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Signup.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Admin.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.User.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Admin_panel.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Dashboard.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.Add_train.resources
+C:\Users\NILOY\Desktop\VS C#\Railway_Enquiry\Railway_Enquiry\obj\Debug\Railway_Enquiry.csprojResolveAssemblyReference.cache

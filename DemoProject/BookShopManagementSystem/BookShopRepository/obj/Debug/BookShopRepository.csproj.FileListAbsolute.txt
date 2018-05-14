@@ -1,0 +1,9 @@
+E:\C#\BookShopManagementSystem\BookShopRepository\bin\Debug\BookShopRepository.dll
+E:\C#\BookShopManagementSystem\BookShopRepository\bin\Debug\BookShopRepository.pdb
+E:\C#\BookShopManagementSystem\BookShopRepository\obj\Debug\BookShopRepository.dll
+E:\C#\BookShopManagementSystem\BookShopRepository\obj\Debug\BookShopRepository.pdb
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopRepository\obj\Debug\BookShopRepository.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopRepository\obj\Debug\BookShopRepository.dll
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopRepository\obj\Debug\BookShopRepository.pdb
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopRepository\bin\Debug\BookShopRepository.dll
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopRepository\bin\Debug\BookShopRepository.pdb

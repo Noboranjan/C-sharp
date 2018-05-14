@@ -1,0 +1,24 @@
+E:\C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.exe.config
+E:\C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.exe
+E:\C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.pdb
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Login.resources
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Properties.Resources.resources
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.csproj.GenerateResource.Cache
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.exe
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.pdb
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Home.resources
+E:\C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopRepository.dll
+E:\C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopRepository.pdb
+E:\C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.exe.config
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.exe
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.pdb
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.csprojResolveAssemblyReference.cache
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Home.resources
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Login.resources
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.Properties.Resources.resources
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\obj\Debug\BookShopApplication.csproj.GenerateResource.Cache
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.exe
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopApplication.pdb
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopRepository.dll
+C:\Users\NILOY\Desktop\VS C#\BookShopManagementSystem\BookShopApplication\bin\Debug\BookShopRepository.pdb
